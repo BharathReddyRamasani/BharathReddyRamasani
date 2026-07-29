@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-hero-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "capture": "node scripts/capture-hero.js"
+  },
+  "dependencies": {
+    "next": "13.4.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "animejs": "3.2.1"
+  },
+  "devDependencies": {
+    "puppeteer": "20.8.0",
+    "gifencoder": "2.0.0",
+    "png-js": "0.1.0"
+  }
+}
