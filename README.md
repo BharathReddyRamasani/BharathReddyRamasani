@@ -34,13 +34,17 @@ Core areas: Machine Learning · Deep Learning · Generative AI · Data Engineeri
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <p align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=BharathReddyRamasani&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/BharathReddyRamasani">
+<img alt="Bharath's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BharathReddyRamasani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=58a6ff&icon_color=79c0ff" width="400" />
+</a>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathReddyRamasani&layout=compact&theme=tokyonight" />
+<a href="https://github.com/BharathReddyRamasani">
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathReddyRamasani&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=58a6ff" width="350" />
+</a>
 
 </p>
 
